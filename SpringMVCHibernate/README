@@ -1,0 +1,11 @@
+
+Spring mvc
+Hibernate
+Mysql
+configuration springSecurity, webmvc, hibernate par xml
+
+Tomcat 7 
+Java 6 (1.6)
+Servlet (Dynamic Web Module) 2.5
+
+Tutoriel de base: http://www.journaldev.com/3531/spring-mvc-hibernate-mysql-integration-crud-example-tutorial
